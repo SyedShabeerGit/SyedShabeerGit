@@ -1,5 +1,6 @@
 
 ![SyedShabeerGit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedShabeerGit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![profile view count](https://komarev.com/ghpvc/?username=SyedShabeerGit)
 <!--
 **SyedShabeerGit/SyedShabeerGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
