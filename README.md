@@ -1,17 +1,27 @@
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [MOHAMMAD ALBARHAM!](https://mohammad-albarham.github.io/) 
 
-![SyedShabeerGit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedShabeerGit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![profile view count](https://komarev.com/ghpvc/?username=SyedShabeerGit)
-<!--
-**SyedShabeerGit/SyedShabeerGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About Me 🚀
+🌱 I am a Senior Developer & Architect having full time expertise in .NET, Python, AI with Azure and AWS Cloud Specialization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
+<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/markdown/markdown.png" />
+
+
+<br />
+<br />
+
+##
+[Website]: 
+[email]: mailto:abdulsyed.shabeer@gmail.com
+[linkedin]: https://www.linkedin.com/in/syedshabeer87
+
+![Barham's github stats](https://github-readme-stats.vercel.app/api?username=SyedShabeerGit&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Barham's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SyedShabeerGit&layout=compact&langs_count=8&hide_border=true)
+<br />
